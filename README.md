@@ -2,4 +2,4 @@
 
 **Activity 1**
 
-![](images/Activity1.png)
+![](images/Activity1.JPG)
