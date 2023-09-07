@@ -7,3 +7,9 @@
 **Activity 2**
 
 ![](images/Activity2.JPG)
+
+**Activity 3**
+
+![](images/Activity3A.JPG)
+
+![](images/Activity3B.JPG)
